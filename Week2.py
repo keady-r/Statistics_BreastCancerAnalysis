@@ -3,7 +3,7 @@
 #Simple Plot
 import matplotlib.pyplot as plt
 
-plt.plot([1,2,3,4,5], [1,4,9,16], 'b.')
+plt.plot([1,2,3,4,5],'b.')
 plt.ylabel ('numbers')
 plt.show
 
@@ -12,7 +12,7 @@ plt.show
 
 import numpy as np
 
-x = np.arrange(0.0, 10.0, 0.01)
+x = np.array(0.0, 10.0, 0.01)
 y = 3.0 * x
 noise = np.random.normal(0.0, 1.0, len (x))
 
@@ -52,7 +52,7 @@ plt.scatter(x1, x2, c=3, s=4)
 
 plt.show()
 
-x = np.arrange(-2.0 * np.pi, 2.0 * np.pi, 0.1)
+x = np.array(-2.0 * np.pi, 2.0 * np.pi, 0.1)
 plt.plot (x, np.sin(x), 'g')
 plt.plot (x, np.cos(x), 'b')
 
