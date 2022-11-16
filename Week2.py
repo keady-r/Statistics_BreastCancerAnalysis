@@ -3,16 +3,14 @@
 #Simple Plot
 import matplotlib.pyplot as plt
 
-plt.plot([1,2,3,4,5],'b.')
+plt.plot([1,2,3,4,5], [1,4,9,16], 'b.')
 plt.ylabel ('numbers')
 plt.show
 
 #Two Dimensional plot
-
-
 import numpy as np
 
-x = np.array(0.0, 10.0, 0.01)
+x = np.arrange(0.0, 10.0, 0.01)
 y = 3.0 * x
 noise = np.random.normal(0.0, 1.0, len (x))
 
@@ -43,18 +41,3 @@ plt.hist(x)
 plt.show()
 
 #Other plots
-x1 = np.random.uniform(0.0, 10.0, 100)
-x2 = np.random.uniform(0.0, 5.0, 100)
-x3 = np.random.randint(0.0, 20, 100)
-x4 = np.random.normal(0.0, 15, 100)
-
-plt.scatter(x1, x2, c=3, s=4)
-
-plt.show()
-
-x = np.array(-2.0 * np.pi, 2.0 * np.pi, 0.1)
-plt.plot (x, np.sin(x), 'g')
-plt.plot (x, np.cos(x), 'b')
-
-plt.show()
-
