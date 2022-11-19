@@ -39,6 +39,3 @@ plt.subplot(1, 2, 2)
 plt.hist(x)
 
 plt.show()
-
-#Other plots
-
