@@ -65,3 +65,4 @@ plt.plot (x, x**2, 'g-', label = 'x^2')
 plt.plot (x, x**3, 'b-', label = 'x^3')
 plt.legend()
 plt.show()
+
