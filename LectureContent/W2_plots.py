@@ -40,6 +40,7 @@ plt.hist(x)
 
 plt.show()
 
+
 #Other plots
 #Scatter
 x1 = np.random.uniform(0.0, 10.0, 100)
