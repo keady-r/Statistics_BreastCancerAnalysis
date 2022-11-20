@@ -3,7 +3,7 @@ import numpy as np
 
 #Simple Plot
 
-plt.plot([1,2,3,4,5], [1,4,9,16], 'b.')
+plt.plot([1,2,3,4,5], [1,4,9,16], 'b-')
 plt.ylabel ('numbers')
 plt.show
 
