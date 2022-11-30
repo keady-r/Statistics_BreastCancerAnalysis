@@ -11,6 +11,11 @@ with open (filename, "r") as f:
     beach = pd.read_csv(filename, sep= ',', header=None, names=columns)
     beach.head()
 
+sns.FacetGrid(beach,hue="Date",height=5).map(sns.histplot,"Total_Coliforms").add_legend()
+plt.savefig('Total_coliforms.png', dpi = 500)
+sns.FacetGrid(beach,hue="Date",height=5).map(sns.histplot,"E_Coli").add_legend()
+plt.savefig('Ecoli.png', dpi = 500)
+sns.FacetGrid(beach,hue="Date",height=5).map(sns.histplot,"Enterococci").add_legend()
 sns.FacetGrid(beach,hue="Date",height=20).map(sns.histplot,"Total_Coliforms").add_legend()
 plt.savefig('Total_coliforms.png', dpi = 500)
 sns.FacetGrid(beach,hue="Date",height=20).map(sns.histplot,"E_Coli").add_legend()
