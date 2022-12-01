@@ -1,0 +1,18 @@
+ Breast Cancer 
+ ___________________________________________
+
+                 id    diagnosis  ...           symmetry_worst fractal_dimension_worst
+id        diagnosis  radius_mean  ...  fractal_dimension_worst                     NaN
+842302            M        17.99  ...                   0.1189                     NaN
+842517            M        20.57  ...                  0.08902                     NaN
+84300903          M        19.69  ...                  0.08758                     NaN
+84348301          M        11.42  ...                    0.173                     NaN
+...             ...          ...  ...                      ...                     ...
+926424            M        21.56  ...                  0.07115                     NaN
+926682            M        20.13  ...                  0.06637                     NaN
+926954            M         16.6  ...                   0.0782                     NaN
+927241            M         20.6  ...                    0.124                     NaN
+92751             B         7.76  ...                  0.07039                     NaN
+
+[570 rows x 32 columns]
+____________________________________________
