@@ -126,7 +126,7 @@ plt.ylabel('New cases in 2020')
 plt.title("Cancer in Men(blue), Women (Red)")
 plt.savefig('CancerInBoth.png', dpi = 500)
 plt.show()
-'''
+
 def shape(dataset):
     print('='*20,'Dataset Shape','='*20)
     print(dataset.shape)
@@ -168,4 +168,4 @@ fig.update_layout(margin={'b':0,'l':0,'r':0,'t':100},
 
 fig.show()
 
-''''''
+'''''
