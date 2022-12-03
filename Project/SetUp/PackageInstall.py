@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
+import random
 from plotly.subplots import make_subplots
 from warnings import filterwarnings
 from References import ref
