@@ -14,4 +14,7 @@ def describe(data):
     print('='*20,'Dataset Describe','='*20)
     print(data.describe())
     print('\n')
-    
+
+def getProbability(measure, total):
+    probability = measure/total
+    print("The Probability is:", round(probability,2))
