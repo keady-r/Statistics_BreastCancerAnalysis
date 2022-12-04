@@ -23,6 +23,7 @@ Within this repository you should find:
 
 # Authors Notes:
 ## Idea Behind the Project 
+
 Initally this project was aimed at researching the potential for hydrolic energy in Ireland, to evalute the current structure and calculate cost savings (if any) when compared to the more dominitly used fossil fuel while also comparing the environmental imapct. Though there were some datasets avaialbe that initially sparked an interest, the efforts were in vain (on this ocasion at least) as there was limit resources to support and compare the datasets. 
 
 The direction of the project shifted towards healthcare and one topic stood out amongst the rest for it's extensive research and access to datasets, that being, the study of cancer. Through investigation it quickly became apparent that one of the most predominate cancers in males was prostate cancer while in females, breast cancer. I was curious as to why the leading cause of this disease in either sex inheritantly revolved around organs/tissues that were laregly specific to the gender and upon googling, no justification was given and hence the problem statement for this project was created : Is your Sex the reason for cancer ---> FInal title to come". 
