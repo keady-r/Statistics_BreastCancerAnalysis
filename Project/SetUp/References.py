@@ -18,13 +18,31 @@ NoteBook1 = [
     "3. CLEAN-CODE PRACTICES  ",
     "=========================",
     "3.1. Solid Principle - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/#:~:text=The%20SOLID%20Principles%20are%20five,and%20software%20architecture%20in%20general.", 
-    "3.2. Clean Code - A HandBook of Agile Software Carftmanship. Robert C Martin page 136. "
+    "3.2. Clean Code - A HandBook of Agile Software Carftmanship. Robert C Martin page 136. ",  "4.       DATASETS        ",
+    "=========================",
+    "4.1. World Cancer Research International -  https://www.kaggle.com/datasets/ahmadjalalmasood123/worldwide-cancer-data", 
+    "4.2. World Cancer Research International (Available to download at) - https://www.kaggle.com/datasets/mukhazarahmad/worldwide-cancer-data", 
+    
     
 ]
 NoteBook2 = [
     "=========================",
     "1. BACKGROUND ON TOPIC   ", 
     "=========================",
+    "1.1. https://www.researchgate.net/publication/335984408_Breast_cancer", 
+    "1.2. ", 
+    "1.3",
+    "1.4",
+    "1.5",
+    "1.6",
+    "1.7",
+    "1.8", 
+    "1.9. Archimedes on the Circumference and Area of a Circle - https://www.ams.org/publicoutreach/feature-column/fc-2012-02?utm_medium=referral&utm_source=t.co",
+    "1.10. The Perimeter-Area Relation - https://link.springer.com/chapter/10.1007/978-1-4899-2124-6_12", 
+    "1.11. Oxford Dictionary - https://languages.oup.com/google-dictionary-en/",
+    "1.12 Distribution of one variable - http://work.thaslwanter.at/Stats/html/statsDistributions.html", 
+    "1.13. Shape, Center, and Spread of a Distribution- http://mathcenter.oxford.emory.edu/site/math117/shapeCenterAndSpread/", 
+    "1.14 Histogram: Study the shape - https://www.pqsystems.com/qualityadvisor/DataAnalysisTools/interpretation/histogram_shape.php",
     "2.     FUNCTIONALITY     ",
     "=========================",
     "2.1. SubPlots - https://www.w3schools.com/python/matplotlib_subplot.asp", 
@@ -35,6 +53,10 @@ NoteBook2 = [
     "=========================",
     "3.1. Solid Principle - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/#:~:text=The%20SOLID%20Principles%20are%20five,and%20software%20architecture%20in%20general.", 
     "3.2. Clean Code - A HandBook of Agile Software Carftmanship. Robert C Martin page 136. "
+    "=========================",
+    "4.       DATASETS        ",
+    "=========================",
+    "4.1. Breast Cancer Wisconsin (Diagnostic) Data Set -  https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data",
 ]
 NoteBook3 = [
     "=========================",

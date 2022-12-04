@@ -1,47 +1,5 @@
 # Description of this Repository
-Within this repository you will find the submission for my 2022 Programming for Data Analysis Project for the Atlantic Technological University. This project aims to explore the 
-
-
-Objects to cover:
-- Python:                             :DONE
-IF                                    :DONE
-FOR                                   :N/A
-FUNCTIONS                             :DONE
-- MatPlotLib                          :DONE
-Plot                                  :DONE
-His                                   :DONE
-Side-by-Side                          :DONE
-Other                                 :DONE
-- Jupyter                             :DONE
-- Numpy                               :DONE
-Distribution                          :DONE
-Seeds                                 :Synthesised Case study
-Docs
-- Pandas                              :N/A
-Reading CSV                           :DONE
-Loc and iLoc                          :DONE
-Boolean                               :DONE
-Summarising with pandas and seaborn.  :DONE
-- Machine Learning 
-sklearn
-input/output
-Using K
-classifier
-- Exploring Time
-Time series
-- Statistical bias
-bassels correction 
-# To Run this project 
-
-# Authors Notes:
-## Idea Behind the Project 
-Initally this project was aimed at researching the potential for hydrolic energy in Ireland, to evalute the current structure and calculate cost savings (if any) when compared to the more dominitly used fossil fuel while also comparing the environmental imapct. Though there were some datasets avaialbe that initially sparked an interest, the efforts were in vain (on this ocasion at least) as there was limit resources to support and compare the datasets. 
-
-The direction of the project shifted towards healthcare and one topic stood out amongst the rest for it's extensive research and access to datasets, that being, the study of cancer. Through investigation it quickly became apparent that one of the most predominate cancers in males was prostate cancer while in females, breast cancer. I was curious as to why the leading cause of this disease in either sex inheritantly revolved around organs/tissues that were laregly specific to the gender and upon googling, no justification was given and hence the problem statement for this project was created : Is your Sex the reason for cancer ---> FInal title to come". 
-
-From the initiation of this project let me state that I do not intent to answer this problem statement indefinitely as I am aware that this area has been researched extensively and that there are many different variables when it comes to cancer such as genetics, environmental exposures, underlining healthissues, ages etc. The purpose of this project instead is to showcase my ability to synthesis a dataset, evaluate any possible trends and relationships while using python and relvant python programming packages. 
-
-I decided to create a functions script so that the same functions can be ran across different Jupyter notebooks. This decision was made in order to keep the code DRY 'Don't Repeat Yourself' and SOLID principles in mind (S - The Single Responsibility Principle). 
+Within this repository you will find the submission for my 2022 Programming for Data Analysis Project for the Atlantic Technological University. This project aims to explore the trend in cancer research. 
 
 ## Structure of the layout:
 In addition to the research into the topic documented within the Jupyter notebook pages extensive reseach was also done into how to best write and format the code. Paricular attention was that given to the SOLID princiles of coding () and the clean code practices of "". 
@@ -57,4 +15,20 @@ Within this repository you should find:
     - 3_SimulatedCaseStudy
 
 3. Dataset Folder - containg the datasets used within this research project and from which the trending within the Jupyter Notesbooks is based off. 
+
+# To Run this project 
+- Download the repository from gihub. 
+- Install the packages from the Package Install script. 
+- Open the Jupyter Notebooks and run the code from Jupyter Notebook
+
+# Authors Notes:
+## Idea Behind the Project 
+Initally this project was aimed at researching the potential for hydrolic energy in Ireland, to evalute the current structure and calculate cost savings (if any) when compared to the more dominitly used fossil fuel while also comparing the environmental imapct. Though there were some datasets avaialbe that initially sparked an interest, the efforts were in vain (on this ocasion at least) as there was limit resources to support and compare the datasets. 
+
+The direction of the project shifted towards healthcare and one topic stood out amongst the rest for it's extensive research and access to datasets, that being, the study of cancer. Through investigation it quickly became apparent that one of the most predominate cancers in males was prostate cancer while in females, breast cancer. I was curious as to why the leading cause of this disease in either sex inheritantly revolved around organs/tissues that were laregly specific to the gender and upon googling, no justification was given and hence the problem statement for this project was created : Is your Sex the reason for cancer ---> FInal title to come". 
+
+From the initiation of this project let me state that I do not intent to answer this problem statement indefinitely as I am aware that this area has been researched extensively and that there are many different variables when it comes to cancer such as genetics, environmental exposures, underlining healthissues, ages etc. The purpose of this project instead is to showcase my ability to synthesis a dataset, evaluate any possible trends and relationships while using python and relvant python programming packages. 
+
+I decided to create a functions script so that the same functions can be ran across different Jupyter notebooks. This decision was made in order to keep the code DRY 'Don't Repeat Yourself' and SOLID principles in mind (S - The Single Responsibility Principle). 
+
  
