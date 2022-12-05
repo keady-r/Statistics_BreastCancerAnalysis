@@ -2,7 +2,6 @@
 
 Within this repository you will find the submission for my 2022 Programming for Data Analysis Project for the Atlantic Technological University. This project aims to explore the datasets available for global cancer incidences.  
 
- 
 # To Run this project  
 
 - Download the repository from GitHub by selecting download zip from the drop-down menu in the green code box, visible on the repository.  
@@ -15,8 +14,6 @@ Within this repository you will find the submission for my 2022 Programming for 
 
 - Once jupyter notebook is open select a notebook and run it.  
  
- 
-
 ## Structure of the layout: 
 
 In addition to the research into the topic documented within the Jupyter notebook pages extensive research was also done into how to best write and format the code. Particular attention was given to the SOLID principles of coding and the clean code practices. Refer to references page for sources.   
