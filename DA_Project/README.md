@@ -35,16 +35,12 @@ Within this repository you should find:
 2. Jupyter Notebooks - Divided out into a Start, Middle, and End. Labeled in the ascending order to which they should be ran in the following Order (1-3): 
 
 - 1_GlobalCancers_TrendsInFrequency 
-
 - 2_BreastCancer_TrendsInBenignAndMalignantCells 
-
 - 3_SimulatedCaseStudy 
- 
 
 3. Dataset Folder - contains the datasets used within this research project and from which the trending within the Jupyter Notebooks is based off. 
 
 # Authors Notes: 
-
 ## Idea Behind the Project  
 
 Initially this project was aimed at researching the potential for hydraulic energy in Ireland, to evaluate the current structure and calculate cost savings (if any) when compared to the more dominantly used fossil fuel while also comparing the environmental impact. Though there were some datasets available that initially sparked an interest, the efforts were in vain (on this occasion at least) as there were limited resources to support and compare the datasets.  
