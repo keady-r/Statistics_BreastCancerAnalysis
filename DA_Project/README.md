@@ -32,7 +32,7 @@ Within this repository you should find:
 
 - References - Contains a list of all the references used throughout research project and an appropriate function to ensure the references are appended to the correct notebook.  
 
-2. Jupyter Notebooks - Divided out into a Start, Middle, and End. Labeled in the ascending order to which they should be ran in the following Order (1-4): 
+2. Jupyter Notebooks - Divided out into a Start, Middle, and End. Labeled in the ascending order to which they should be ran in the following Order (1-3): 
 
 - 1_GlobalCancers_TrendsInFrequency 
 
