@@ -19,14 +19,13 @@ Within this repository you will find the submission for my 2022 Programming for 
 In addition to the research into the topic documented within the Jupyter notebook pages extensive research was also done into how to best write and format the code. Particular attention was given to the SOLID principles of coding and the clean code practices. Refer to references page for sources.   
 
  
+ 
 Within this repository you should find: 
 
 1. SetUp: This folder contains the necessary code to run the project. A conscious decision was made not to put the functions/references/packages directly into the jupyyter Notebooks to best adhere to the following clean code practices - DRY ('Don't Repeat Yourself), and S - Single Responsibility, from the S.O.L.I.D principles.  
 
 - Functions - File containing functions that can be used across multiple jupyter notebooks.  
-
 - PackageInstall - containing the necessary python packages to run the code.  
-
 - References - Contains a list of all the references used throughout research project and an appropriate function to ensure the references are appended to the correct notebook.  
 
 2. Jupyter Notebooks - Divided out into a Start, Middle, and End. Labeled in the ascending order to which they should be ran in the following Order (1-3): 
