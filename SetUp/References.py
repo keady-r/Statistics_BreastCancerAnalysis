@@ -25,7 +25,10 @@ NoteBook1 = [
     "=========================",
     "4.1. World Cancer Research International -  https://www.kaggle.com/datasets/ahmadjalalmasood123/worldwide-cancer-data", 
     "4.2. World Cancer Research International (Available to download at) - https://www.kaggle.com/datasets/mukhazarahmad/worldwide-cancer-data", 
+<<<<<<< HEAD
     "4.3. World Cancer Research International reference to pie chart - https://www.kaggle.com/code/aqsasadaf/global-cancer-incidence"
+=======
+>>>>>>> 5922d32ddff6c62c739e2496bae46b13117877bf
 
 
 ]
