@@ -25,12 +25,7 @@ NoteBook1 = [
     "=========================",
     "4.1. World Cancer Research International -  https://www.kaggle.com/datasets/ahmadjalalmasood123/worldwide-cancer-data", 
     "4.2. World Cancer Research International (Available to download at) - https://www.kaggle.com/datasets/mukhazarahmad/worldwide-cancer-data", 
-<<<<<<< HEAD
-    "4.3. World Cancer Research International reference to pie chart - https://www.kaggle.com/code/aqsasadaf/global-cancer-incidence"
-=======
->>>>>>> 5922d32ddff6c62c739e2496bae46b13117877bf
-
-
+    "4.3. World Cancer Research International reference to pie chart - https://www.kaggle.com/code/aqsasadaf/global-cancer-incidence",
 ]
 NoteBook2 = [
     "=========================",
@@ -79,7 +74,7 @@ NoteBook3 = [
     "=========================",
     "3.1. Solid Principle - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/#:~:text=The%20SOLID%20Principles%20are%20five,and%20software%20architecture%20in%20general.", 
     "",
-    "3.2. Clean Code - A HandBook of Agile Software Carftmanship. Robert C Martin page 136. "
+    "3.2. Clean Code - A HandBook of Agile Software Carftmanship. Robert C Martin page 136. ",
 ]
 
 def ref(noteBookName):
