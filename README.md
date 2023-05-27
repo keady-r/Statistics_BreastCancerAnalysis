@@ -35,12 +35,3 @@ Within this repository you should find:
 
 3. Dataset Folder - contains the datasets used within this research project and from which the trending within the Jupyter Notebooks is based off. 
 
-# Authors Notes: 
-
-## Idea Behind the Project  
-
-Initially this project was aimed at researching the potential for hydraulic energy in Ireland, to evaluate the current structure and calculate cost savings (if any) when compared to the more dominantly used fossil fuel while also comparing the environmental impact. Though there were some datasets available that initially sparked an interest, the efforts were in vain (on this occasion at least) as there were limited resources to support and compare the datasets.  
-
-The direction of the project shifted towards healthcare and one topic stood out amongst the rest for its extensive research and access to datasets, that being, the study of cancer.  
-
-To further advance this project I would have liked to add additional trends around machine learning and predictability. 

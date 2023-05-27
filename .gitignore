@@ -1,11 +1,7 @@
 
 #Checkpoints
-<<<<<<< HEAD
 .ipynb_checkpoints
 
 __pycache__
 
 .DS_Store
-=======
-.ipynb_checkpoints
->>>>>>> 5922d32ddff6c62c739e2496bae46b13117877bf
